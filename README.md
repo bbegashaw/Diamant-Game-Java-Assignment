@@ -1,4 +1,4 @@
-# Java-Assignement
+# Diamant-Game-Java-Assignement
  One of our assignments on OOP in Java which involved building a Game based on the famous Diamant board game.
  
  Look into CS2910_Assignments2.pdf for the question paper detailing the instructions
